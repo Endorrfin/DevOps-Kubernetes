@@ -1,0 +1,48 @@
+node_modules/
+.tmp
+bin/
+Thumbs.db
+.tscache
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Visual Studio Code
+.vscode/*
+.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# Sensitive or high-churn files:
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+.idea/
+.idea/inspectionProfiles/
+.idea/Project_Default.xml
+.DS_Store
+Thumbs.db
